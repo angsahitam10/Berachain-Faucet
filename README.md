@@ -7,7 +7,7 @@ This Node.js script automates interactions with the Berachain faucet website usi
 Before running the script, ensure Node.js is installed on your machine. To install the required packages, navigate to the root directory of the project and run:
 
 ```bash
-git clone https://github.com/dante4rt/Berachain-Faucet-Taker.git && cd Berachain-Faucet-Taker && npm install
+git clone (https://github.com/angsahitam10/Berachain-Faucet.git) && cd Berachain-Faucet-Taker && npm install
 ```
 
 This command will install Puppeteer, Cron, readline-sync, and colors, which are necessary for the script to function correctly.
